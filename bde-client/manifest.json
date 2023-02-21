@@ -1,5 +1,5 @@
 {
-    "name" : "bde-front",
+    "name" : "bde-client",
     "appid" : "",
     "description" : "",
     "versionName" : "1.0.0",
@@ -68,5 +68,5 @@
     "uniStatistics" : {
         "enable" : false
     },
-    "vueVersion" : "2"
+    "vueVersion" : "3"
 }
